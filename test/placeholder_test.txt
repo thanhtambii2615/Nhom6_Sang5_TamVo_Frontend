@@ -1,0 +1,2 @@
+Placeholder test directory for ChildCare Android project unit testing.
+Unit tests are located in android/app/src/test and android/app/src/androidTest.
